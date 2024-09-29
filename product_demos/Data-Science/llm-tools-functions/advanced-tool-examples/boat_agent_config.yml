@@ -1,0 +1,5 @@
+agent_prompt: "You are a helpful assistant. Make sure to use tool for information."
+llm_endpoint: "databricks-meta-llama-3-1-70b-instruct"
+warehouse_id: "893b4474c6828b90"
+uc_functions:
+  - "techsummit25.boat_reviews.*"
